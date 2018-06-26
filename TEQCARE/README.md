@@ -10,20 +10,20 @@ Teqcare is a Customer side usable application.
 #### ACL of Teqcare system:
 
 - ##### DASHBOARD:
-	-In Dashboard to Graphical representation	
+	- In Dashboard to Graphical representation	
 
 - ##### SERVICE:
-	-Request call 
-	-Manage call
-	-call history
+	- Request call 
+	- Manage call
+	- call history
 
 - ##### PRODUCTS:
-	-Place Order
-	-Order History
+	- Place Order
+	- Order History
 
 - ##### INVENTORY:
-	-Add Device
-	-Mange Device
+	- Add Device
+	- Mange Device
 
 - ##### REPORTS
 
