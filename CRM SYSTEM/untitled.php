@@ -1,0 +1,1 @@
+<a data-toggle=\"collapse\" data-target=\"#tb".$i."\" style=\"cursor:pointer\" class=\"actionResponse\"><span class=\"fa fa-plus\"></a><input type=\"radio\" name=\"rdo\" class=\"rdo col-md-6\" valign=\"10px\" > <a data-toggle=\"collapse\" class=\"quotation btn btn-info btn-xs\" data-target=\"#quotation\">SendQuotation</a>
