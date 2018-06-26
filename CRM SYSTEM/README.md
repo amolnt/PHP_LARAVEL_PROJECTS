@@ -11,27 +11,27 @@ Developed The CRM system ,it is a set of software applications that help an orga
 #### Core Modules Of The CRM:
 
 - ##### MARKETING:
-	-Marketing Calender
-	-Customer Trigger System
-	-Remainder System
-	-Field Reporting	
+	- Marketing Calender
+	- Customer Trigger System
+	- Remainder System
+	- Field Reporting	
 
 - ##### CUSTOMER INFORMATION SYSTEM:
-	-Companys Information
-	-Contacts Information
-	-Transaction & Queries
-	-Category & Profile
+	- Companys Information
+	- Contacts Information
+	- Transaction & Queries
+	- Category & Profile
 
 - ##### ORDER FULFILLMENT:
-	-Delivery Configuration
-	-Distribution Channel
-	-Constraint Management
-	-Scheduling & Planning
+	- Delivery Configuration
+	- Distribution Channel
+	- Constraint Management
+	- Scheduling & Planning
 
 - ##### Inventory Management System
 
 - ##### REPORTS & GRAPHS
 
 - ##### RETURNS & CLAIMS
-	-Claim Form
-	-Return Form
+	- Claim Form
+	- Return Form
