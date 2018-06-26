@@ -28,7 +28,7 @@ Developed The CRM system ,it is a set of software applications that help an orga
 	- Constraint Management
 	- Scheduling & Planning
 
-- ##### Inventory Management System
+- ##### INVENTORY MANAGEMENT SYSTEM
 
 - ##### REPORTS & GRAPHS
 
