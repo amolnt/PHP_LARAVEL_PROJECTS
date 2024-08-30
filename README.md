@@ -4,7 +4,7 @@
 
 - [Amol Tribhuwan](https://github.com/amolnt "Amol's github profile")
 
-#### I am doing Two Projects:
+#### Projects:
 
 - ##### CRM SYSTEMS
 - ##### TEQCARE SYSTEM
